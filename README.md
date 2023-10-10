@@ -1,8 +1,8 @@
-# <course_name>
+# Cryptograhy
 
-Code written for Applied Computer Science **<course_name>** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
+Code written for Applied Computer Science **Cryptograhy** course at [AGH UST](https://www.agh.edu.pl/en) [WFiIS](https://www.fis.agh.edu.pl/en/).
 
-Semester `<semester_number>`, year `<calendar_year>`.
+Semester `9`, year `2023`.
 
 ## License
 
